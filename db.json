@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "users": [
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+  ]
 }
