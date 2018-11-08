@@ -3,7 +3,8 @@
     {
       "id":1,
       "name":"Edison",
-      "age":22
+      "age":22,
+      "goal":10
     }
   ],
   "data": [
